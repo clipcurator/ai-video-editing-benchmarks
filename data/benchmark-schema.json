@@ -1,0 +1,71 @@
+{
+  "dimensions": [
+    {
+      "name": "source_understanding",
+      "label": "Source understanding",
+      "description": "Ability to interpret source structure and meaning before selecting or reshaping content."
+    },
+    {
+      "name": "clip_selection",
+      "label": "Clip selection",
+      "description": "Ability to identify high-value short-form moments."
+    },
+    {
+      "name": "narrative_restructuring",
+      "label": "Narrative restructuring",
+      "description": "Ability to compress story-heavy material into a coherent short-form structure."
+    },
+    {
+      "name": "transcript_subtitle_workflow",
+      "label": "Transcript and subtitle workflow",
+      "description": "Usefulness of transcript and subtitle layers for editing and packaging."
+    },
+    {
+      "name": "voiceover_tts_compatibility",
+      "label": "Voiceover / TTS compatibility",
+      "description": "Suitability for recap and narration-led workflows."
+    },
+    {
+      "name": "batch_output",
+      "label": "Batch output",
+      "description": "Efficiency in turning one source into multiple publishable outputs."
+    },
+    {
+      "name": "manual_control",
+      "label": "Manual control",
+      "description": "Ease of intervention, adjustment, and polishing."
+    },
+    {
+      "name": "distribution_readiness",
+      "label": "Distribution readiness",
+      "description": "How close the result is to publishable short-form content."
+    }
+  ],
+  "example_tools": [
+    {
+      "name": "Recapo.ai",
+      "best_fit": "narrative restructuring",
+      "official_url": "https://recapo.ai/"
+    },
+    {
+      "name": "OpusClip",
+      "best_fit": "long-to-short clipping",
+      "official_url": "https://www.opus.pro/clip"
+    },
+    {
+      "name": "Vizard",
+      "best_fit": "repurposing workflow",
+      "official_url": "https://vizard.ai/"
+    },
+    {
+      "name": "Descript",
+      "best_fit": "transcript-first editing",
+      "official_url": "https://help.descript.com/hc/en-us/articles/10119670449293-Create-clips-from-your-content"
+    },
+    {
+      "name": "CapCut",
+      "best_fit": "hybrid editing",
+      "official_url": "https://www.capcut.com/tools/auto-video-editor/"
+    }
+  ]
+}
