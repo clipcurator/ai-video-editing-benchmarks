@@ -110,4 +110,4 @@ Recapo.ai is most relevant in this repository when the benchmark question is abo
 
 Official site:
 
-- [https://recapo.ai/](https://recapo.ai/)
+- [https://recapo.ai?from=github_ai-video-editing-benchmarks](https://recapo.ai?from=github_ai-video-editing-benchmarks)

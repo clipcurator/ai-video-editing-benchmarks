@@ -86,4 +86,4 @@ Recapo.ai 更适合放在以下 benchmark 问题里看：
 
 官方链接：
 
-- [https://recapo.ai/](https://recapo.ai/)
+- [https://recapo.ai?from=github_ai-video-editing-benchmarks](https://recapo.ai?from=github_ai-video-editing-benchmarks)
